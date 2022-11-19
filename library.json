@@ -1,0 +1,20 @@
+{
+    "name": "PI4IOE5V9536",
+    "keywords": "i2c,mux,io expander,PI4IOE5V9536",
+    "description": "Arduino library for PI4IOE5V9536 (4-bit general-purpose I/O expander that provides remote I/O expansion for most microcontroller families via the I2C-bus interface)",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/pokergeist/PI4IOE5V9536"
+    },
+    "authors":
+    {
+        "name": "github:pokergeist",
+        "url": "https://github.com/ponoor",
+        "maintainer": true
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
